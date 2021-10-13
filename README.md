@@ -1,3 +1,3 @@
 # I'm a test repo
 
-*lorem ipsum dolor sit amet*
+*lorem ipsum dolor sit amet, consectetur adipiscing elit,*
