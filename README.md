@@ -1,3 +1,3 @@
 # I'm a test repo
 
-*lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sanctus kyrie eleison*
+*lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sanctus kyrie eleison. Et in terra pax hominibus bonae voluntatis.*
